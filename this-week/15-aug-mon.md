@@ -38,4 +38,12 @@ Start taking notes…
 **GitBook tip:** Use the **rating** column in a table to build a super simple habit-tracking section.
 {% endhint %}
 
+{% hint style="info" %}
+tkejaf das
+
+&#x20;fdafa fa
+
+## &#x20;fa fafafafaf
+{% endhint %}
+
 <table data-header-hidden><thead><tr><th data-type="rating" data-max="5"></th><th>Task</th></tr></thead><tbody><tr><td>4</td><td>Sleep</td></tr><tr><td>3</td><td>Work/life balance</td></tr><tr><td>3</td><td>Creativity</td></tr><tr><td>5</td><td>Fitness</td></tr></tbody></table>
