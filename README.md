@@ -1,10 +1,10 @@
-# Template page 1
+# Template page
 
 {% hint style="info" %}
 Duplicate this page for every day you want to track.
 {% endhint %}
 
-## Today's stuff
+## Today's stuff1
 
 <table data-header-hidden><thead><tr><th data-type="checkbox"></th><th data-type="select">Type</th><th>Action</th></tr></thead><tbody><tr><td>false</td><td></td><td>A meeting I'm attending</td></tr><tr><td>false</td><td></td><td>A task I should do</td></tr></tbody></table>
 
