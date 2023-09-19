@@ -2,6 +2,7 @@
 
 * [Template page](README.md)
 * [Page 9](page-9.md)
+* [Page](page.md)
 
 ## This week
 
