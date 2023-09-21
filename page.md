@@ -14,3 +14,6 @@ gfsgsg
 
 dafaf
 
+<figure><img src=".gitbook/assets/Storage-Share.png" alt=""><figcaption></figcaption></figure>
+
+ll
