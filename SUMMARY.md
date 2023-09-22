@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Template page](README.md)
-* [Page 9](page-9.md)
+* [Page 9](README.md)
+* [Template page](<README (1).md>)
 * [Page](page.md)
 
 ## This week
