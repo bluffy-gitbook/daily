@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Page 9](README.md)
-* [Template page](<README (1).md>)
+* [Template page](README.md)
+* [Page 13](page-13.md)
+* [Page 9](<README (1).md>)
 * [Page](page.md)
+* [google](http://google.de)
 
 ## This week
 
